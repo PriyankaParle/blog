@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>curiousity blog</title>
-    <link>https://priyankaparle.github.io/</link>
+    <link>https://priyankaparle.github.io/blog/</link>
     <description>Recent content on curiousity blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 May 2021 18:42:35 +0530</lastBuildDate><atom:link href="https://priyankaparle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 18:42:35 +0530</lastBuildDate><atom:link href="https://priyankaparle.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My_fifth_blog</title>
-      <link>https://priyankaparle.github.io/posts/my_fifth_blog/</link>
+      <link>https://priyankaparle.github.io/blog/posts/my_fifth_blog/</link>
       <pubDate>Fri, 28 May 2021 18:42:35 +0530</pubDate>
       
-      <guid>https://priyankaparle.github.io/posts/my_fifth_blog/</guid>
+      <guid>https://priyankaparle.github.io/blog/posts/my_fifth_blog/</guid>
       <description>My fifth blogpost!  Hope you are at the best of your healths and spirits!  Will update soon </description>
     </item>
     
     <item>
       <title>My_fourth_blog</title>
-      <link>https://priyankaparle.github.io/posts/my_fourth_blog/</link>
+      <link>https://priyankaparle.github.io/blog/posts/my_fourth_blog/</link>
       <pubDate>Fri, 28 May 2021 18:42:29 +0530</pubDate>
       
-      <guid>https://priyankaparle.github.io/posts/my_fourth_blog/</guid>
+      <guid>https://priyankaparle.github.io/blog/posts/my_fourth_blog/</guid>
       <description>My fourth blogpost!  Hope you are at the best of your healths and spirits!  Will update soon </description>
     </item>
     
     <item>
       <title>My_third_blog</title>
-      <link>https://priyankaparle.github.io/posts/my_third_blog/</link>
+      <link>https://priyankaparle.github.io/blog/posts/my_third_blog/</link>
       <pubDate>Fri, 28 May 2021 18:42:23 +0530</pubDate>
       
-      <guid>https://priyankaparle.github.io/posts/my_third_blog/</guid>
+      <guid>https://priyankaparle.github.io/blog/posts/my_third_blog/</guid>
       <description>My third blogpost!  Hope you are at the best of your healths and spirits!  Will update soon </description>
     </item>
     
     <item>
       <title>My_second_blog</title>
-      <link>https://priyankaparle.github.io/posts/my_second_blog/</link>
+      <link>https://priyankaparle.github.io/blog/posts/my_second_blog/</link>
       <pubDate>Fri, 28 May 2021 18:42:19 +0530</pubDate>
       
-      <guid>https://priyankaparle.github.io/posts/my_second_blog/</guid>
+      <guid>https://priyankaparle.github.io/blog/posts/my_second_blog/</guid>
       <description>My second blogpost!  Hope you are at the best of your healths and spirits!  Will update soon </description>
     </item>
     
     <item>
       <title>My_first_blog</title>
-      <link>https://priyankaparle.github.io/posts/my_first_blog/</link>
+      <link>https://priyankaparle.github.io/blog/posts/my_first_blog/</link>
       <pubDate>Fri, 28 May 2021 18:42:13 +0530</pubDate>
       
-      <guid>https://priyankaparle.github.io/posts/my_first_blog/</guid>
+      <guid>https://priyankaparle.github.io/blog/posts/my_first_blog/</guid>
       <description>My first blogpost!  Hope you are at the best of your healths and spirits!  Will update soon </description>
     </item>
     
